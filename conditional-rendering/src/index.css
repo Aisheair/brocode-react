@@ -1,0 +1,16 @@
+.welcome-message{
+  font-size: 2.5em;
+  background-color: rgb(37, 135, 32);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
+.loggedIn-promt{
+  font-size: 2.5em;
+  background-color: rgb(135, 32, 32);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+}
